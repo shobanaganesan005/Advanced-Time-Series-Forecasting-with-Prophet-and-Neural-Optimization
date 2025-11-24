@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Prophet-and-Neural-Optimization
+This project builds a complete time-series forecasting pipeline using Facebook Prophet enhanced with metaheuristic hyperparameter optimization. A SARIMAX model serves as the baseline, and both models are evaluated across multiple forecast horizons using MAE, RMSE, and MAPE to measure the performance improvement gained from optimization.
