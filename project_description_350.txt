@@ -1,0 +1,1 @@
+This project builds a full forecasting pipeline using Facebook Prophet and a metaheuristic optimizer to tune its key hyperparameters. A SARIMAX baseline is implemented, multiple forecast horizons are evaluated with MAE/RMSE/MAPE, and the optimized Prophet model is compared against the baseline for industrial-style time series.
